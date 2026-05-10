@@ -21,3 +21,6 @@ env/
 
 # Data caches sometimes downloaded by gdown / gensim into ../../data
 *.pkl
+
+# Course materials kept local
+Syllabus*.pdf
