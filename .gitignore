@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / tooling
+.vscode/
+.idea/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Data caches sometimes downloaded by gdown / gensim into ../../data
+*.pkl
